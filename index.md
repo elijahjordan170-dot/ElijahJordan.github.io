@@ -9,4 +9,8 @@ Lab 5, part 1 This lab was very fun. I was able to implement my understanding of
 
 Lab 8, part 2 Taught me how to play Poker. 18 years and I learn from a computer science class. I integrated If & If-Else statements along with nested loops, for-loops, and nested If statements to allow this program to be successful. This lab taught me to think in multiple levels, Ultimatley Im so glad I learned to finally play.
 
+<<<<<<< HEAD
 Lab 2 Not the most entertaininng, but I love this lab for the questions it answered. Helping me undertsand the repository, Github and the terminal. Tools I've never encountered in previous coding courses in highschool. How Github Tokens, and cloning repositories contribute to running the terminal were foriegn concepts that I'm glad to have some understanding over.
+=======
+Lab 2 Not the most entertaininng, but I love this lab for the questions it answered. Helping me undertsand the repository, Github and the terminal. Tools I've never encountered in previous coding courses in highschool. How Github Tokens, and cloning repositories contribute to running the terminal were foriegn concepts that I'm glad to have some understanding over.
+>>>>>>> dafc5a45d556e97cd4b0419b9423d9dc43ffa13f
