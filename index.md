@@ -3,7 +3,7 @@
 
 I am a computer science major at CSUF and I plan on graduating in 2029.
 
-### FAvorite CPSC 120L Labs
+### Favorite CPSC 120L Labs
 
 * Lab 5, part 1 
 This lab was very fun. I was able to implement my understanding of for-loops to calculate the square root of -1. I experemented with while loops against my proffessors advice, ultimatley leading to fruitlessness. When I switched back to for-loops, I was able to better calculate square roots, Leading to a greater sense of accomplishment and understanding.
